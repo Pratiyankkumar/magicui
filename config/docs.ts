@@ -309,6 +309,12 @@ export const docsConfig: DocsConfig = {
           items: [],
           label: "",
         },
+        {
+          title: "Highlighter",
+          href: "/docs/components/highlighter",
+          items: [],
+          label: "New",
+        },
       ],
     },
     {
